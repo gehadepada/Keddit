@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899810404330",
+    "project_id": "keddit-29992",
+    "storage_bucket": "keddit-29992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899810404330:android:7fcccf523d966be1043493",
+        "android_client_info": {
+          "package_name": "com.example.keddit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu188T6KICbS-KGMf5BhwaczsosEDO0xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
